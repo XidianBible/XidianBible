@@ -1,5 +1,7 @@
 西电圣经
 =================
+[西电编年史](https://github.com/XidianBible/XidianBible/blob/main/Diary.md)
+-----------------
 
 保研
 -----------------
